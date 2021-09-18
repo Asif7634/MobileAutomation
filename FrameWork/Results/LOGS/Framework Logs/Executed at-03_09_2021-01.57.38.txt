@@ -1,0 +1,3 @@
+2021-09-03 01:57:38 TRACE :164 Logging - info - Loggers Initialized
+2021-09-03 01:57:38 TRACE :164 Logging - info - Loading Maps-----------------------
+2021-09-03 01:58:04 TRACE :164 Logging - info - loading uiMap.xls

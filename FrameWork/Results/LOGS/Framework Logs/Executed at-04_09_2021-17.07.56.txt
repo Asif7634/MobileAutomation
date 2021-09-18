@@ -1,0 +1,5 @@
+2021-09-04 17:07:56 TRACE :164 Logging - info - Loggers Initialized
+2021-09-04 17:07:56 TRACE :164 Logging - info - Loading Maps-----------------------
+2021-09-04 17:07:56 TRACE :164 Logging - info - loading PropertyMap.xlsx
+2021-09-04 17:07:56 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@6193932a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\PropertyMap.xlsx
+2021-09-04 17:07:58 TRACE :164 Logging - info - Setting up module drivers

@@ -1,0 +1,19 @@
+2021-09-03 02:05:17 TRACE :164 Logging - info - Loggers Initialized
+2021-09-03 02:05:17 TRACE :164 Logging - info - Loading Maps-----------------------
+2021-09-03 02:05:17 TRACE :164 Logging - info - loading uiMap.xls
+2021-09-03 02:05:17 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\uiMap.xls
+2021-09-03 02:05:18 TRACE :164 Logging - info - loading KVSMap.xls
+2021-09-03 02:05:18 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@32a068d1,Sheet Name:-ProductsRouting
+2021-09-03 02:05:18 TRACE :164 Logging - info - loading PropertyMap.xlsx
+2021-09-03 02:05:18 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\PropertyMap.xlsx
+2021-09-03 02:05:19 TRACE :164 Logging - info - loading WFM_ElementPropertyMap.xls
+2021-09-03 02:05:19 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\WebElementPropertyMap.xls
+2021-09-03 02:05:19 TRACE :164 Logging - info - loading WFM_ElementPropertyMap.xlsx
+2021-09-03 02:05:19 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\WFM_ObjectMap.xlsx
+2021-09-03 02:05:20 TRACE :164 Logging - info - loading KVSMap.xlsx
+2021-09-03 02:05:20 TRACE :164 Logging - info - loading AppiumObjectMap.xlsx
+2021-09-03 02:05:20 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\AppiumObjectMap.xlsx
+2021-09-03 02:05:20 TRACE :164 Logging - info - Setting up module drivers
+2021-09-03 02:05:20 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,Sheet Name:-BATCH
+2021-09-03 02:05:20 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@1ae23815,Sheet Name:-Script
+2021-09-03 02:05:20 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@1ae23815,Sheet Name:-Test Data

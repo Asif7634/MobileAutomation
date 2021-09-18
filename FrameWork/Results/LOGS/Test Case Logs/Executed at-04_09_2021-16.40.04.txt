@@ -1,0 +1,44 @@
+2021-09-04 16:40:08 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 16:40:08 TRACE :188 Logging - info - Executing CreateTableLayOut().......
+2021-09-04 16:40:08 TRACE :188 Logging - info - Reading test set
+2021-09-04 16:40:08 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 16:40:08 TRACE :188 Logging - info - Executing CreateTableLayOut().......
+2021-09-04 16:40:08 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 16:40:45 TRACE :188 Logging - info - ******************************************************************Start of Test*****************************************************************
+2021-09-04 16:40:45 TRACE :188 Logging - info - Executing..openApp
+2021-09-04 16:40:45 TRACE :256 Logging - error -  Unable to launch app Cannot invoke "io.appium.java_client.AppiumDriver.launchApp()" because "com.cg.UIDriver.AppiumUIDriver.driver" is null'
+2021-09-04 16:40:45 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:47 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:47 TRACE :188 Logging - info - Executing..gma4_CustLogin_Menu,Parameters-{custPwd=Sagar@37, custUid=sagar153715@gmail.com}
+2021-09-04 16:40:49 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:51 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:51 TRACE :188 Logging - info - Executing..DeleteAllCards,Parameters-{mobileObjectName=gma4_SaveCard_DEL, mobileIosObjectName=gma4_SaveCard_MinusDel, expectedData=Del}
+2021-09-04 16:40:51 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:53 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:53 TRACE :188 Logging - info - Executing..SelectMultipleAlacarteItem,Parameters-{BrkfstProduct=Milkshakes#Medium Vanilla Milkshake, LunchProduct=Milkshakes#Medium Vanilla Milkshake}
+2021-09-04 16:40:53 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:55 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:55 TRACE :188 Logging - info - Executing..gma4_CheckOutAndScanQRCode,Parameters-{AddNewCard=YES}
+2021-09-04 16:40:55 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:57 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:57 TRACE :188 Logging - info - Executing..gma4_ConfirmOrderType,Parameters-{OrderCheckInType=Take Out}
+2021-09-04 16:40:57 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:40:59 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:40:59 TRACE :188 Logging - info - Executing..tapMobileAppObject,Parameters-{mobileObjectName=gma4_BagCharges_Quantity_Plus, expectedData=+}
+2021-09-04 16:40:59 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:41:01 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:41:01 TRACE :188 Logging - info - Executing..tapMobileAppObject,Parameters-{mobileObjectName=gma4_BagCharges_ContinueButton, expectedData=Continue}
+2021-09-04 16:41:01 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:41:03 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:41:03 TRACE :188 Logging - info - Executing..gma4_verifyText,Parameters-{mobileObjectName=gma4_CheckOut_Heading, expectedData=Checkout}
+2021-09-04 16:41:03 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:41:05 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:41:05 TRACE :188 Logging - info - Executing..tapMobileAppObject,Parameters-{mobileObjectName=gma4_bagChrg_chkout_confirmPymnt, expectedData=Confirm Payment}
+2021-09-04 16:41:05 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:41:07 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:41:07 TRACE :188 Logging - info - Executing..verifyAppObjectInformation,Parameters-{mobileObjectName=gma4_slctPymnt_newCard, expectedData=Pay with card}
+2021-09-04 16:41:08 TRACE :188 Logging - info - Executing..closeApp
+2021-09-04 16:41:08 TRACE :256 Logging - error -  Unable to launch app Cannot invoke "io.appium.java_client.AppiumDriver.closeApp()" because "com.cg.UIDriver.AppiumUIDriver.driver" is null'
+2021-09-04 16:41:08 TRACE :256 Logging - error - logging FAILED  in HTML Reports 
+2021-09-04 16:41:10 TRACE :256 Logging - error - Error while logging FAILED in HTML Reports- ' Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "com.cg.UIDriver.AppiumUIDriver.driver" is null ' 
+2021-09-04 16:41:10 TRACE :188 Logging - info - ******************************************************************End of Test*****************************************************************

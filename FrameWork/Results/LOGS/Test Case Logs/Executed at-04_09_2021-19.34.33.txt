@@ -1,0 +1,16 @@
+2021-09-04 19:34:34 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 19:34:34 TRACE :188 Logging - info - Executing CreateTableLayOut().......
+2021-09-04 19:34:35 TRACE :188 Logging - info - Reading test set
+2021-09-04 19:34:35 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 19:34:35 TRACE :188 Logging - info - Executing CreateTableLayOut().......
+2021-09-04 19:34:35 TRACE :188 Logging - info - Executing ReportTestCaseInfo().......
+2021-09-04 19:35:13 TRACE :188 Logging - info - ******************************************************************Start of Test*****************************************************************
+2021-09-04 19:35:13 TRACE :188 Logging - info - Executing..openApp
+2021-09-04 19:35:29 TRACE :188 Logging - info - logging PASSED  in HTML Reports 
+2021-09-04 19:35:32 TRACE :188 Logging - info - Executing..selectProductCategory
+2021-09-04 19:35:43 TRACE :188 Logging - info - logging PASSED  in HTML Reports 
+2021-09-04 19:35:50 TRACE :188 Logging - info - logging PASSED  in HTML Reports 
+2021-09-04 19:35:55 TRACE :188 Logging - info - logging PASSED  in HTML Reports 
+2021-09-04 19:35:59 TRACE :188 Logging - info - Executing..closeApp
+2021-09-04 19:36:00 TRACE :188 Logging - info - logging PASSED  in HTML Reports 
+2021-09-04 19:36:04 TRACE :188 Logging - info - ******************************************************************End of Test*****************************************************************

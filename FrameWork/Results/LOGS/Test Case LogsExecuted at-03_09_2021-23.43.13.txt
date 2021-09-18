@@ -1,0 +1,1 @@
+2021-09-03 23:43:16 TRACE :232 Logging - error - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@769e7ee8,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\PropertyMap.xlsx,Cannot invoke "org.apache.poi.ss.usermodel.Row.getLastCellNum()" because "CurrentRow" is null

@@ -1,0 +1,17 @@
+2021-09-03 02:01:08 TRACE :164 Logging - info - Loggers Initialized
+2021-09-03 02:01:08 TRACE :164 Logging - info - Loading Maps-----------------------
+2021-09-03 02:01:08 TRACE :164 Logging - info - loading uiMap.xls
+2021-09-03 02:01:08 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\uiMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading KVSMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@32a068d1,Sheet Name:-ProductsRouting
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading PropertyMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\PropertyMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading WFM_ElementPropertyMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\WebElementPropertyMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading WFM_ElementPropertyMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\WFM_ObjectMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading KVSMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@5764d421,Sheet Name:-KvsList
+2021-09-03 02:01:09 TRACE :164 Logging - info - loading AppiumObjectMap.xls
+2021-09-03 02:01:09 TRACE :164 Logging - info - CreatMapFromSheet().....Workbook ref:-org.apache.poi.hssf.usermodel.HSSFWorkbook@aecb35a,file path:-C:\Work\MobileAutomatio\MobileAutomation\Automation\FrameWork\LookUp\OR\AppiumObjectMap.xls
+2021-09-03 02:01:10 TRACE :164 Logging - info - Setting up module drivers

@@ -1,0 +1,1 @@
+2021-09-04 17:32:49 TRACE :232 Logging - error - Cannot invoke "Object.toString()" because "com.cg.TestCaseRunner.TestCaseRunner.WorkBook" is null

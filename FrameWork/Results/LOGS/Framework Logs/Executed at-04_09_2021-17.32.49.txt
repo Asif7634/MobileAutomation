@@ -1,0 +1,4 @@
+2021-09-04 17:32:49 TRACE :164 Logging - info - Loggers Initialized
+2021-09-04 17:32:49 TRACE :164 Logging - info - Loading Maps-----------------------
+2021-09-04 17:32:49 TRACE :164 Logging - info - loading PropertyMap.xlsx
+2021-09-04 17:32:49 TRACE :164 Logging - info - Setting up module drivers
